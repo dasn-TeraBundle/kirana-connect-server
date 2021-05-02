@@ -1,0 +1,3 @@
+rootProject.name = 'kirana-app'
+
+include "kirana-service"
